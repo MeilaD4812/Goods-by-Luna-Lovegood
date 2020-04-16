@@ -1,0 +1,59 @@
+body{
+    background-color: rgba(99, 1, 255, 0.815);
+}
+
+img{
+    border-width: 2px;
+    border-style: solid;
+    border-color: yellow;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header{
+    background-color: mediumvioletred;
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(0, 255, 229); 
+    color:pink;
+}
+
+#homenavlinks{
+    text-align: center;
+}
+
+#navlinks{
+    position: fixed;
+}
+
+#navlinksfortheitems{
+    text-align: center;
+}
+
+#h2{
+    text-align: center;
+    color: maroon;
+}
+
+#footer{
+    background-color: mediumvioletred;
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(0, 255, 229);
+    color: rgb(255, 255, 255);
+}
+
+p{
+    text-align: center;
+}
+
+a{
+color: yellow;
+}
+
+a:hover{
+    color: lightblue;
+}
